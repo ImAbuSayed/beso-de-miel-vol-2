@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/beso-de-miel-vol-2/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Beso de miel, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/beso-de-miel-vol-2/) |
+| **Get License** | [License this song: Beso de miel, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/beso-de-miel-vol-2/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `eb5b5103390c931c77cbcfdb62c17b4cf3c9affecc5a18c46af415168b186c59` |
 | **Timestamp** | June 24, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
